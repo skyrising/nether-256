@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "nether-256",
+  "version": "${version}",
+  "name": "Nether 256",
+  "description": "Nether generation up to 256",
+  "authors": [
+    "skyrising"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/skyrising/nether-256"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "mixins": [
+    "nether-256.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "1.16.2"
+  }
+}
