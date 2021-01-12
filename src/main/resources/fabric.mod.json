@@ -17,6 +17,6 @@
     "nether-256.mixins.json"
   ],
   "depends": {
-    "minecraft": "1.16.2"
+    "minecraft": "^1.16.2"
   }
 }
